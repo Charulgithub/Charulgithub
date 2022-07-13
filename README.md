@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charul Shaharey
 - 👀 I’m interested in Problem Solving, learning Web technologies and AR/VR.
 - 🌱 I’m currently learning Web Technologies.
--     Always ready to discuss about the advancements in IT Industry and entrepreneurship ecosystem.
+- 🕸️ Always ready to discuss about the advancements in IT Industry and entrepreneurship ecosystem.
 - 💞️ I’m looking to collaborate with like minded people enthusaistic about AI, AR/VR or developing cutting edge tech.
 - 📫 How to reach me https://www.linkedin.com/in//charulshaharey//
 
