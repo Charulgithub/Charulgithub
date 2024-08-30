@@ -2,14 +2,21 @@
 
 🔍 I’m interested in <b>Problem Solving</b> related to <b>DSA</b> and real-world applications, as well as contributing to <b>open source projects</b>.
 
-📚 I have completed training in <b>Machine Learning</b> and <b>Full Stack Web Development (MERN)</b> and am now focusing on <b>DevOps</b>.
+📚 I have completed training in <b>Full Stack Web Development (MERN)</b> and am now focusing on <b>DevOps</b>.
 
 💼 Past Experience: <b>Software Development Intern at ITJOBXS</b>, and <b>Full Stack Developer at Exposys Data Labs</b>.
 
+🌱 I bring good <b>problem-solving skills</b>, a <b>proactive</b> and <b>eager-to-learn attitude</b>, and a <b>passion for technology</b> and <b>software development</b>.
+
 🤝 Currently seeking opportunities in <b>SDE</b> or <b>Full Stack Development</b> to tackle real-world problems and collaborate with like-minded professionals.
 
-  
+📫 How to reach me - https://www.linkedin.com/in/charulshaharey/
 
+🕸️ Always ready to discuss about the advancements in IT Industry and entrepreneurship ecosystem.
+
+💞️ I’m looking to collaborate with like minded people enthusaistic about AI and developing cutting edge tech.
+
+👀 <b>Porfolio Link-</b> https://charul-shaharey-porfolio.netlify.app/
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshmeena9672&label=Profile%20views&color=0e75b6&style=flat" alt="niteshmeena9672" /> </p> -->
 
@@ -120,20 +127,6 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
 
 </p>
 
@@ -148,20 +141,20 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:meena.58@iitj.ac.in">
-    <img align="center" alt="Nitesh Meena | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img align="center" alt="Charul Shaharey | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nitesh-meena-2512a6212/" target="_blank">
-    <img align="center" alt="Nitesh Meena | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/charulshaharey/" target="_blank">
+    <img align="center" alt="Charul Shaharey | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/AlgoStar/" target="_blank">
+  <a href="https://leetcode.com/u/200Charul/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>&nbsp;&nbsp;
- <a href="https://auth.geeksforgeeks.org/user/nitesh9672" target="_blank" style="margin-left: 10px;">
+ <a href="https://www.geeksforgeeks.org/user/charulsahare/" target="_blank" style="margin-left: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Niteshmeena9672" target="_blank">
-    <img align="center" alt="Nitesh Meena | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="https://github.com/Charulgithub" target="_blank">
+    <img align="center" alt="Charul Shaharey | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a>&nbsp;&nbsp;
 
   <!-- YouTube link removed as not provided -->
@@ -169,7 +162,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for checking out my profile! Have a great day! :wink: <br/>
-  &copy; 2024 Nitesh Meena
+  &copy; 2024 Charul Shaharey
 </div>
 
 
