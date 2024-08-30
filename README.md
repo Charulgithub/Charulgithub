@@ -14,9 +14,11 @@
 
 🕸️ Always ready to discuss about the advancements in IT Industry and entrepreneurship ecosystem.
 
+👀 <b>Porfolio Link-</b> https://charul-shaharey-porfolio.netlify.app/
+
 💞️ I’m looking to collaborate with like minded people enthusaistic about AI and developing cutting edge tech.
 
-👀 <b>Porfolio Link-</b> https://charul-shaharey-porfolio.netlify.app/
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshmeena9672&label=Profile%20views&color=0e75b6&style=flat" alt="niteshmeena9672" /> </p> -->
 
