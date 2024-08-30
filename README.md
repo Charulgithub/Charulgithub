@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm <b>Nitesh Meena</b> from IIT Jodhpur</h1>
+<h1 align="center">Hi 👋, I'm <b>Charul Shaharey</b> from IIT Guwahati</h1>
 
 🔍 I’m interested in <b>Problem Solving</b> related to <b>DSA</b> and real-world applications, as well as contributing to <b>open source projects</b>.
 
 📚 I have completed training in <b>Machine Learning</b> and <b>Full Stack Web Development (MERN)</b> and am now focusing on <b>DevOps</b>.
 
-💼 Past Experience: <b>Freelance SDE at Seiaum Tech Private Limited</b>, <b>Software Development Intern at ITJOBXS</b>, and <b>Full Stack Developer at Exposys Data Labs</b>.
+💼 Past Experience: <b>Software Development Intern at ITJOBXS</b>, and <b>Full Stack Developer at Exposys Data Labs</b>.
 
 🤝 Currently seeking opportunities in <b>SDE</b> or <b>Full Stack Development</b> to tackle real-world problems and collaborate with like-minded professionals.
 
