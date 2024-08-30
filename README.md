@@ -8,7 +8,7 @@
 
 🌱 I bring good <b>problem-solving skills</b>, a <b>proactive</b> and <b>eager-to-learn attitude</b>, and a <b>passion for technology</b> and <b>software development</b>.
 
-🤝 Currently seeking opportunities in <b>SDE</b> or <b>Full Stack Development</b> to tackle real-world problems and collaborate with like-minded professionals.
+🤝 Currently seeking opportunities in <b>SDE</b> and <b>Full Stack Development</b> to tackle real-world problems and collaborate with like-minded professionals.
 
 📫 How to reach me - https://www.linkedin.com/in/charulshaharey/
 
