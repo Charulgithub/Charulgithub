@@ -1,6 +1,6 @@
 [![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://jainsparsh5.io)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsparsh5&label=Profile%20views&color=0e75b6&style=flat" alt="jainsparsh5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Charulgithub&label=Profile%20views&color=0e75b6&style=flat" alt="CharulShaharey" /> </p>
 
 <h1 align="center">Hi 👋, I'm <b>Charul Shaharey</b> from IIT Guwahati</h1>
 
