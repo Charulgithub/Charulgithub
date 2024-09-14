@@ -1,3 +1,7 @@
+[![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://jainsparsh5.io)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsparsh5&label=Profile%20views&color=0e75b6&style=flat" alt="jainsparsh5" /> </p>
+
 <h1 align="center">Hi 👋, I'm <b>Charul Shaharey</b> from IIT Guwahati</h1>
 
 🔍 I’m interested in <b>Problem Solving</b> related to <b>DSA</b> and real-world applications, as well as contributing to <b>open source projects</b>.
