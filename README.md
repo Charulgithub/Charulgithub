@@ -168,7 +168,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for checking out my profile! Have a great day! :wink: <br/>
-  &copy; 2024 Charul Shaharey
+  &copy; 2025 Charul Shaharey
 </div>
 
 
