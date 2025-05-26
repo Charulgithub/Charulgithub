@@ -6,9 +6,9 @@
 
 🔍 I’m interested in <b>Problem Solving</b> related to <b>DSA</b> and real-world applications, as well as contributing to <b>open source projects</b>.
 
-📚 I have completed training in <b>Full Stack Web Development (MERN)</b> and am now focusing on <b>DevOps</b>.
+📚 I have hands on experience in <b>Full Stack Web Development (MERN)</b> and am now focusing on <b>DevOps</b>.
 
-💼 Past Experience: <b>Software Development Intern at ITJOBXS</b>, and <b>Full Stack Developer Intern at Exposys Data Labs</b>.
+💼 Past Experience: <b>Software Development Intern </b>, and <b>Full Stack Developer Intern </b>.
 
 🌱 I bring good <b>problem-solving skills</b>, a <b>proactive</b> and <b>eager-to-learn attitude</b>, and a <b>passion for technology</b> and <b>software development</b>.
 
